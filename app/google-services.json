@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904876063435",
+    "firebase_url": "https://batimetria-61120.firebaseio.com",
+    "project_id": "batimetria-61120",
+    "storage_bucket": "batimetria-61120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904876063435:android:c232309f2023dd38bc394e",
+        "android_client_info": {
+          "package_name": "com.example.batimetria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904876063435-4l9iei5uegl9rg9jh41a6ua1qir6icru.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.batimetria",
+            "certificate_hash": "5f1cd7345921a1c0f048e67d177bc0b546eae48f"
+          }
+        },
+        {
+          "client_id": "904876063435-l68al6b3p825dta1pe9in2juv7joc6qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAScF_-8Mt-DYywTefHrpww7amJNmI5KVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904876063435-l68al6b3p825dta1pe9in2juv7joc6qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Batimetria</string>
+    <string name="facebook_application_id" translatable="false">2498755313716861</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb2498755313716861</string>
+</resources>
